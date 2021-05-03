@@ -35,7 +35,8 @@ int main()
         orders[i] = order;
     }
     
-    cout << "\nThank you for your order!: " << endl;
+    cout << "\nThank you for your order! " << endl;
+    cout << "Here is a summary of the total: " << endl;
     // output a nice receipt 
     cout << "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" << endl;
     
