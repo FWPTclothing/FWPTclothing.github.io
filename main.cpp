@@ -54,7 +54,6 @@ int main()
     cout << "                                  $" << total << endl;
     
     cout << "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" << endl;
-    cout << "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" << endl;
 
     return 0;
 }
